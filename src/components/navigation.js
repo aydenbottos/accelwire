@@ -55,7 +55,7 @@ const Navigation = (props) => {
 }
 
 Navigation.defaultProps = {
-  image_src: '6916073c-c2ad-4bf5-b714-58b5fc9be5dc',
+  image_src: '/playground_assets/logo1-1500h.png',
   button: 'Get in touch',
   image_alt1: 'image',
   image_src1: '/playground_assets/logo1-1500h.png',
