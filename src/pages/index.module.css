@@ -200,7 +200,6 @@
   display: flex;
   opacity: 0;
   z-index: 1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
   transition: 0.3s;
   align-items: center;
   border-radius: var(--dl-radius-radius-radius8);
@@ -252,7 +251,6 @@
   display: flex;
   opacity: 0;
   z-index: 1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
   transition: 0.3s;
   align-items: center;
   border-radius: var(--dl-radius-radius-radius8);
@@ -304,7 +302,6 @@
   display: flex;
   opacity: 0;
   z-index: 1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
   transition: 0.3s;
   align-items: center;
   border-radius: var(--dl-radius-radius-radius8);
@@ -356,7 +353,6 @@
   display: flex;
   opacity: 0;
   z-index: 1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
   transition: 0.3s;
   align-items: center;
   border-radius: var(--dl-radius-radius-radius8);
@@ -408,7 +404,6 @@
   display: flex;
   opacity: 0;
   z-index: 1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
   transition: 0.3s;
   align-items: center;
   border-radius: var(--dl-radius-radius-radius8);
@@ -460,7 +455,6 @@
   display: flex;
   opacity: 0;
   z-index: 1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
   transition: 0.3s;
   align-items: center;
   border-radius: var(--dl-radius-radius-radius8);
