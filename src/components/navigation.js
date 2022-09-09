@@ -55,7 +55,7 @@ const Navigation = (props) => {
 }
 
 Navigation.defaultProps = {
-  image_src: '/playground_assets/logo1-1500h.png',
+  image_src: '/playground_assets/accelwirelogo-200h.png',
   button: 'Get in touch',
   image_alt1: 'image',
   image_src1: '/playground_assets/logo1-1500h.png',
